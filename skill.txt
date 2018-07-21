@@ -1,1 +1,40 @@
 
+技术造型：
+1.spring+springmvc+mybatis+mysql
+2.redis
+3.solor
+4.EasyUI
+5.JQuery
+6.Freemark 渲染引擎
+7.activMQ   消息队列
+8.httpClient  分布式,各个子系统之间的通信
+
+
+开发环境：
+1.InteliJ IDEA
+2.maven
+3.tomcat
+4.Nginx  负载均衡 反向代理, 图片系统（HTTP服务器）
+5.Git  版本控制
+6.postman  测试数据
+
+
+计划：
+技术架构 （集群和分布式架构的区别）
+工程搭建 （maven搭建）
+ssm框架整合
+mybatis的逆向工程以及使用
+日志添加与使用
+拦截器
+后端功能（系统开发，图片系统，数据等等）
+前端功能（商品浏览，下订单，购物车等等）
+redis使用以及集群搭建
+solor使用和集群搭建
+JMS消息队列（activMQ）
+sso单点登录
+resuful服务风格
+在Liunx上部署
+
+
+
+
